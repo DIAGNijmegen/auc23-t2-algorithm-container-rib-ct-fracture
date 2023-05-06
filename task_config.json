@@ -5,5 +5,5 @@
   "output_interfaces": [
     "probabilities-fracture-type"
   ],
-  "roi_segmentation_interface": null
+  "roi_segmentation_interface": "rib-fracture-segmentation"
 }
