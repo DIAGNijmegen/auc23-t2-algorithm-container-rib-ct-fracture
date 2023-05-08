@@ -3,7 +3,7 @@
     "ct-image"
   ],
   "output_interfaces": [
-    "probabilities-fracture-type"
+    "fracture-type-probabilities"
   ],
   "roi_segmentation_interface": "rib-fracture-segmentation"
 }
